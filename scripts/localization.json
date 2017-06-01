@@ -1,0 +1,40 @@
+{
+      "config_de" : {  // Data for the Deutsch
+          
+            "addEmployeeDetails" : "Mini CURD App",
+            "userDetails" : "Benutzerdetails",
+            "addUser" : "Benutzer hinzufügen",
+            "delete" : "Löschen",
+            "edit" : "Bearbeiten",
+            "userName" : "Benutzername",
+            "serialNo" : "Seriennummer",
+            "newUserReg" : "Neue Benutzerregistrierung",
+            "save" : "Sparen",
+            "close" : "Schließen",
+            "inputFullName" : "Vor- und Zuname",
+            "editThisUser" : "Bearbeiten Sie diesen Benutzer",
+            "yes" : "Ja",
+            "no" : "Nein",
+            "deleteUserInformation" : "Sie werden diese Benutzerinformationen löschen."
+            
+      },
+      "config_en" : { // Data for the English
+         
+            "addEmployeeDetails" : "Mini CURD App",
+            "userDetails" : "User Details",
+            "addUser" : "Add User",
+            "delete" : "Delete",
+            "edit" : "Edit",
+            "userName" : "User Name",
+            "serialNo" : "Serial No.",
+            "newUserReg" : "New User Registration",
+            "save" : "Save",
+            "close" : "Close",
+            "inputFullName" : "Full Name",
+            "editThisUser" : "Edit This User",
+            "yes" : "Yes",
+            "no" : "No",
+            "deleteUserInformation" : "You are going to delete this user information."
+      }
+      
+}

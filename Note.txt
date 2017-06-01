@@ -1,0 +1,5 @@
+It is a simple mini CURD(Create, Update, Read, Delete) App for the user
+information. This app is developed using AngularJs, HTML5, CSS3, JSON and
+Bootstraps.
+
+Please run this App in server (eg: XAMPP, WAMP etc)

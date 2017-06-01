@@ -1,0 +1,31 @@
+.selectedFoods{
+	float: left;
+	margin-right: 20px;
+}
+.selectedFoods p{
+	display: inline-block;
+	padding: 0 5px;
+}
+.selectedDrinks{
+	float: right;
+	display: inline-block;
+}
+.warningText{
+	color: red;
+}
+header{
+	height: 200px;
+	width: 100%;
+	background-color: #99b3ff;
+}
+table {
+	width: 100%;
+	max-width: 100%;
+	margin-bottom: 20px;
+	overflow-y: hidden;
+	display: inherit;
+	overflow-x: scroll;
+}
+.lang-select span img:hover{
+	cursor: pointer;
+}
